@@ -1,4 +1,4 @@
-FROM ghcr.io/blue-oci/alpine:latest
+FROM ghcr.io/polarix-containers/alpine:latest
 
 LABEL maintainer="Thien Tran contact@tommytran.io"
 

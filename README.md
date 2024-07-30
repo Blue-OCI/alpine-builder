@@ -1,6 +1,6 @@
 # Alpine Builder
 
-![Build, scan & push](https://github.com/Blue-OCI/alpine-builder/actions/workflows/build.yml/badge.svg)
+![Build, scan & push](https://github.com/Polarix-Containers/alpine-builder/actions/workflows/build.yml/badge.svg)
 
 ### Features & usage
 - Alpine container with common build tools.

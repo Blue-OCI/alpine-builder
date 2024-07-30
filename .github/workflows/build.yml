@@ -14,7 +14,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: blue-oci/alpine-builder
+  IMAGE_NAME: polarix-containers/alpine-builder
 
 jobs:
   build:
